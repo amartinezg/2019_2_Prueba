@@ -1,1 +1,5 @@
-Hola Mundo
+Hola Estudiantes
+
+Bienvenidos al curso 
+
+de Administración de bases de datos avanzada
